@@ -1,4 +1,4 @@
-# green-configuration-measurements
+# Green Configuration Measurements
 
 This Repository contains all energy and performance measurements that have been raised during the *Green Configuration* project. The following table summarizes the number of measurements carried out per subject system for the performance and energy measurements.
 
